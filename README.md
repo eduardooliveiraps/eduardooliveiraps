@@ -6,7 +6,7 @@
 <br>
 
 Currently:
-- MSc in Informatics and Computing Engineering @ [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) <br>
+- MSc in Artificial Intelligence @ [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) <br>
 
 <br>
 
