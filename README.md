@@ -30,6 +30,7 @@ Currently:
 | **Course**                          | **Project Name**                          | **Description**                                                                                   | **Grade (/20)** |
 |-------------------------------------|-------------------------------------------|---------------------------------------------------------------------------------------------------|-----------------|
 | Advanced Topics in Machine Learning | [RAG-Chatbot-PDF-Docs](https://github.com/eduardooliveiraps/RAG-Chatbot-Technical-Docs) | A Retrieval-Augmented Generation (RAG) chatbot for answering questions from technical PDF documentation | **20**          |
+| Advanced Topics in Machine Learning | [Airline-Satisfaction-XAI](https://github.com/eduardooliveiraps/Airline-Satisfaction-XAI-Insights) | Exploring Explainable AI (XAI) techniques to interpret a classification model predicting airline passenger satisfaction |           |
 
 </p>
 
