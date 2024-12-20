@@ -32,7 +32,8 @@ Currently:
 | Advanced Topics in Machine Learning | [RAG-Chatbot-Technical-Docs](https://github.com/eduardooliveiraps/RAG-Chatbot-Technical-Docs) | A Retrieval-Augmented Generation (RAG) chatbot for answering questions from technical PDF documentation | **20** |
 | Advanced Topics in Machine Learning | [Airline-Satisfaction-XAI](https://github.com/eduardooliveiraps/Airline-Satisfaction-XAI) | Exploring Explainable AI (XAI) techniques to interpret a classification model predicting airline passenger satisfaction ||
 | Topics in Intelligent Systems       | [MARL-MPE](https://github.com/eduardooliveiraps/MARL-MPE) | Multi-agent reinforcement learning using MADDPG in Multi-Agent Particle Environments (MPE) |           | 
-| Introduction to Data Science        | [Health-Insurance-Predictor](https://github.com/eduardooliveiraps/HealthInsurancePredictor) | Developing a predictive classification model to identify health insurance status for a Kaggle competition |           | 
+| Introduction to Data Science        | [Health-Insurance-Predictor](https://github.com/eduardooliveiraps/HealthInsurancePredictor) | Developing a predictive classification model to identify health insurance status for a Kaggle competition |           |
+| Artificial Intelligence and Society | [Prompt-Injection-Detection](https://github.com/eduardooliveiraps/prompt-injection-detection) | Exploring embedding-based classifiers to detect and defend against prompt injection attacks in Large Language Models (LLMs) | |
 </p>
 
 
