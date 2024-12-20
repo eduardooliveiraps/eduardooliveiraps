@@ -29,7 +29,7 @@ Currently:
 
 | **Course**                          | **Project Name**                          | **Description**                                                                                   | **Grade (/20)** |
 |-------------------------------------|-------------------------------------------|---------------------------------------------------------------------------------------------------|-----------------|
-| Advanced Topics in Machine Learning | [RAG-Chatbot-PDF-Docs](https://github.com/eduardooliveiraps/RAG-Chatbot-Technical-Docs) | A Retrieval-Augmented Generation (RAG) chatbot to answer questions about technical documentation in PDF format | **20**          |
+| Advanced Topics in Machine Learning | [RAG-Chatbot-PDF-Docs](https://github.com/eduardooliveiraps/RAG-Chatbot-Technical-Docs) | A Retrieval-Augmented Generation (RAG) chatbot for answering questions from technical PDF documentation | **20**          |
 
 </p>
 
