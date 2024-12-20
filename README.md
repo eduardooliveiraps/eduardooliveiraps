@@ -21,4 +21,16 @@ Currently:
 <img align="center" src="https://img.shields.io/badge/Editors-Visual Studio Code -informational?style=flat&logo=visual-studio-code&logoColor=white&color=42F29E">
 </p>
 
+<h2 align="center">Projects</h2>
+<p align="center">
+
+| **Course**   | **Name**      | **Description**                                                                                                                                                   | **Grade (/20)** |
+|--------------|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| Advanced Topics in Machine Learning | [RAG-Chatbot-PDF-Docs](https://github.com/eduardooliveiraps/RAG-Chatbot-Technical-Docs) | Retrieval-Augmented Generation (RAG) chatbot to answer questions about technical documentation | 20 |
+
+</p>
+
+
+
+
 <h3 align = "center" ><a href="mailto:up202108690@up.pt">Contact me!</a></h3>
