@@ -21,6 +21,8 @@ Currently:
 <img align="center" src="https://img.shields.io/badge/Editors-Visual Studio Code -informational?style=flat&logo=visual-studio-code&logoColor=white&color=42F29E">
 </p>
 
+---
+
 <h2 align="center">Master's in Artificial Intelligence - Projects</h2>
 
 <p align="center">
