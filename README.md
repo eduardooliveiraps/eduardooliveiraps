@@ -23,7 +23,7 @@ Currently:
 
 ---
 
-<h2 align="center">Master's in Artificial Intelligence - Projects</h2>
+<h2 align="center">Master in Artificial Intelligence - Projects</h2>
 
 <p align="center">
 
