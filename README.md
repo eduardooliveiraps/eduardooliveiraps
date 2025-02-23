@@ -33,7 +33,7 @@ Currently:
 | Advanced Topics in Machine Learning | [Airline-Satisfaction-XAI](https://github.com/eduardooliveiraps/Airline-Satisfaction-XAI) | Exploring Explainable AI (XAI) techniques to interpret a classification model predicting airline passenger satisfaction | **19** |
 | Topics in Intelligent Systems       | [MARL-MPE](https://github.com/eduardooliveiraps/MARL-MPE) | Multi-agent reinforcement learning using MADDPG in Multi-Agent Particle Environments (MPE) | **18** | 
 | Introduction to Data Science        | [Health-Insurance-Predictor](https://github.com/eduardooliveiraps/HealthInsurancePredictor) | Developing a predictive classification model to identify health insurance status for a Kaggle competition | **19.5** |
-| Artificial Intelligence and Society | [Prompt-Injection-Detection](https://github.com/eduardooliveiraps/prompt-injection-detection) | Exploring embedding-based classifiers to detect and defend against prompt injection attacks in Large Language Models (LLMs) | |
+| Artificial Intelligence and Society | [Prompt-Injection-Detection](https://github.com/eduardooliveiraps/prompt-injection-detection) | Exploring embedding-based classifiers to detect and defend against prompt injection attacks in Large Language Models (LLMs) | **20** |
 </p>
 
 
