@@ -35,7 +35,8 @@ Currently:
 | Introduction to Data Science        | [Health-Insurance-Predictor](https://github.com/eduardooliveiraps/HealthInsurancePredictor) | Developing a predictive classification model to identify health insurance status for a Kaggle competition | **19.5** |
 | Artificial Intelligence and Society | [Prompt-Injection-Detection](https://github.com/eduardooliveiraps/prompt-injection-detection) | Exploring embedding-based classifiers to detect and defend against prompt injection attacks in Large Language Models (LLMs) | **20** |
 | Topics in Intelligent Robotics | [RAG-Robotics](https://github.com/eduardooliveiraps/rag-robotics) | RAG chatbot for robotics code generation, evaluated in simulation environment |  |
-| Topics in Intelligent Robotics | [Deepfake-Detect-Generate](https://github.com/eduardooliveiraps/deepfake-detect-generate) | DeepFake Detection & Generation | **19.5** |
+| Deep and Reinforcement Learning | [Deepfake-Detect-Generate](https://github.com/eduardooliveiraps/deepfake-detect-generate) | DeepFake Detection & Generation | **19.5** |
+| Bioinformatics | [T2R38-Phylogenetic-Analysis](https://github.com/eduardooliveiraps/T2R38-Phylogenetic-Analysis) | Phylogenetic Analysis of the T2R38 Gene Across Species | **19.5** |
 </p>
 
 
