@@ -34,6 +34,7 @@ Currently:
 | Topics in Intelligent Systems       | [MARL-MPE](https://github.com/eduardooliveiraps/MARL-MPE) | Multi-agent reinforcement learning using MADDPG in Multi-Agent Particle Environments (MPE) | **18** | 
 | Introduction to Data Science        | [Health-Insurance-Predictor](https://github.com/eduardooliveiraps/HealthInsurancePredictor) | Developing a predictive classification model to identify health insurance status for a Kaggle competition | **19.5** |
 | Artificial Intelligence and Society | [Prompt-Injection-Detection](https://github.com/eduardooliveiraps/prompt-injection-detection) | Exploring embedding-based classifiers to detect and defend against prompt injection attacks in Large Language Models (LLMs) | **20** |
+| Topics in Intelligent Robotics | [RAG-Robotics](https://github.com/eduardooliveiraps/rag-robotics) | RAG chatbot for robotics code generation, evaluated in simulation environment |  |
 </p>
 
 
