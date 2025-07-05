@@ -37,6 +37,7 @@ Currently:
 | Topics in Intelligent Robotics | [RAG-Robotics](https://github.com/eduardooliveiraps/rag-robotics) | RAG chatbot for robotics code generation, evaluated in simulation environment |  |
 | Deep and Reinforcement Learning | [Deepfake-Detect-Generate](https://github.com/eduardooliveiraps/deepfake-detect-generate) | DeepFake Detection & Generation | **19.5** |
 | Bioinformatics | [T2R38-Phylogenetic-Analysis](https://github.com/eduardooliveiraps/T2R38-Phylogenetic-Analysis) | Phylogenetic Analysis of the T2R38 Gene Across Species | **19.5** |
+| Natural Language Processing | [Consumer-Complaint-Transformer-Classifier](https://github.com/eduardooliveiraps/consumer-complaint-transformer-classifier) | Transformer-based approach for classifying financial consumer complaint narratives | **18.9** |
 </p>
 
 
