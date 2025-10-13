@@ -10,11 +10,6 @@ Currently:
 
 <br>
 
-<div align="center">
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardooliveiraps&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardooliveiraps&layout=compact&langs_count=7&theme=dracula"/>   
-</div>
-
 <p align = "center">
 <img align="center" src="https://img.shields.io/badge/Operating%20System-Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078D6">
 <img align="center" src="https://img.shields.io/badge/Tools for coding -Git-informational?style=flat&logo=Git&logoColor=white&color=4293F2">
