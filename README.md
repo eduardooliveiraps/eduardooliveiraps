@@ -1,24 +1,34 @@
 <div align = "center">
 <img href="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<h2 align = "center" >Hi, I'm Eduardo Oliveira </h2>
+<h2 align = "center" >👋 Hi, I'm Eduardo Oliveira </h2>
   <img src="https://komarev.com/ghpvc/?username=eduardooliveiraps&color=blue&style=for-the-badge"></img>
 </div>
 <br>
 
-Currently:
-- MSc in Artificial Intelligence @ [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) <br>
+---
 
-<br>
+## 👤 About Me
 
-<p align = "center">
-<img align="center" src="https://img.shields.io/badge/Operating%20System-Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078D6">
-<img align="center" src="https://img.shields.io/badge/Tools for coding -Git-informational?style=flat&logo=Git&logoColor=white&color=4293F2">
-<img align="center" src="https://img.shields.io/badge/Editors-Visual Studio Code -informational?style=flat&logo=visual-studio-code&logoColor=white&color=42F29E">
-</p>
+My purpose is to **create a lasting, positive impact on humanity** at the broadest possible scale.  
+
+I’m a **problem-solver** with a curious mind and a **team-focused mentality**, with experience in **software engineering, artificial intelligence, and data science** across academia and industry. I thrive in **multidisciplinary, collaborative teams** where ambitious challenges meet disciplined execution.  
+
+I’m passionate about **AI and technology**, exploring how they can **transform businesses, enhance society, and solve real-world challenges**.  
+
+Beyond work, I pursue **continuous learning and personal growth**, staying active through sports and keeping up with the latest in **business, science, and technology**.
 
 ---
 
-<h2 align="center">Master in Artificial Intelligence - Projects</h2>
+## 🛠 Skills & Technologies
+
+**Programming & Software:** Python, SQL, C++, TypeScript, Full-Stack Development, Git, Docker, APIs, Agile Methodologies  
+**Data & AI:** Machine Learning, Deep Learning, NLP, Computer Vision, ETLs, Data Pipelines, LLMs, RAG, Explainable AI, Vector Databases  
+**Tools & Platforms:** PostgreSQL, MongoDB, AWS, Hugging Face, FastAPI, Next.js, NestJS, Strapi  
+**Professional Skills:** Leadership, Project Management, Team Coordination, Strategic Thinking, Client Communication  
+
+---
+
+## 🚀 Projects
 
 <p align="center">
 
@@ -41,4 +51,7 @@ Currently:
 
 
 
-<h3 align = "center" ><a href="mailto:up202108690@up.pt">Contact me!</a></h3>
+## 📫 Contact Me
+
+- 📧 [Email](mailto:eduardomoliveiraa03@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/eduardo-oliveira-ps/)  
