@@ -7,13 +7,9 @@
 
 ## About Me
 
-My purpose is to continuously **create a lasting, positive impact on humanity** at the broadest possible scale.
+I’m a **problem-solver** with a **curious mind** and a **team-focused mentality**. I've gained experience in **software engineering, artificial intelligence, and data science** across both academia and industry. I thrive on tackling ambitious challenges in **collaborative, multidisciplinary teams**, turning ideas into impact. 
 
-I’m a **problem-solver** with a curious mind and a **team-focused mentality**. I've gained experience in **software engineering, artificial intelligence, and data science** across both academia and industry. I thrive in **multidisciplinary, collaborative teams** where ambitious challenges meet disciplined execution.
-
-**AI and technology** are what excite me, and I love exploring how they can **transform businesses, enhance society, and solve real-world challenges**.
-
-Beyond my professional work, I’m passionate about **continuous learning and personal growth**. I stay active through **sports and training**, and I keep myself informed on the latest developments in **business, science, and technology**.
+**AI and technology** are what excite me, and I love exploring how they can **transform businesses, enhance society, and solve real-world challenges**. My purpose is to continuously **create a lasting, positive impact on humanity at the broadest possible scale**.
 
 
 ## Skills & Technologies
