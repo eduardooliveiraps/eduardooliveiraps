@@ -4,7 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=eduardooliveiraps&color=blue&style=for-the-badge"></img>
 </div>
 
----
 
 ## 👤 About Me
 
@@ -16,7 +15,6 @@ I’m a **problem-solver** with a curious mind and a **team-focused mentality**.
 
 Beyond my professional work, I’m passionate about **continuous learning and personal growth**. I stay active through **sports and training**, and I keep myself informed on the latest developments in **business, science, and technology**.
 
----
 
 ## 🛠 Skills & Technologies
 
@@ -24,8 +22,6 @@ Beyond my professional work, I’m passionate about **continuous learning and pe
 **Data & AI:** Machine Learning, Deep Learning, NLP, Computer Vision, ETLs, Data Pipelines, LLMs, RAG, Explainable AI, Vector Databases  
 **Tools & Platforms:** PostgreSQL, MongoDB, AWS, Hugging Face, FastAPI, Next.js, NestJS, Strapi  
 **Professional Skills:** Leadership, Project Management, Team Coordination, Strategic Thinking, Client Communication  
-
----
 
 ## 🚀 Projects
 
