@@ -1,9 +1,8 @@
 <div align = "center">
 <img href="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<h2 align = "center" >👋 Hi, I'm Eduardo Oliveira </h2>
+<h2 align = "center" > Hi, I'm Eduardo Oliveira </h2>
   <img src="https://komarev.com/ghpvc/?username=eduardooliveiraps&color=blue&style=for-the-badge"></img>
 </div>
-<br>
 
 ---
 
