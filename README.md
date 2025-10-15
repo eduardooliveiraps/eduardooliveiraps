@@ -5,7 +5,7 @@
 </div>
 
 
-## 👤 About Me
+## About Me
 
 My purpose is to continuously **create a lasting, positive impact on humanity** at the broadest possible scale.
 
@@ -16,14 +16,14 @@ I’m a **problem-solver** with a curious mind and a **team-focused mentality**.
 Beyond my professional work, I’m passionate about **continuous learning and personal growth**. I stay active through **sports and training**, and I keep myself informed on the latest developments in **business, science, and technology**.
 
 
-## 🛠 Skills & Technologies
+## Skills & Technologies
 
 **Programming & Software:** Python, SQL, C++, TypeScript, Full-Stack Development, Git, Docker, APIs, Agile Methodologies  
 **Data & AI:** Machine Learning, Deep Learning, NLP, Computer Vision, ETLs, Data Pipelines, LLMs, RAG, Explainable AI, Vector Databases  
 **Tools & Platforms:** PostgreSQL, MongoDB, AWS, Hugging Face, FastAPI, Next.js, NestJS, Strapi  
 **Professional Skills:** Leadership, Project Management, Team Coordination, Strategic Thinking, Client Communication  
 
-## 🚀 Projects
+## Projects
 
 <p align="center">
 
@@ -46,7 +46,7 @@ Beyond my professional work, I’m passionate about **continuous learning and pe
 
 
 
-## 📫 Contact Me
+## Contact Me
 
 - 📧 Email: eduardomoliveiraa03@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/eduardo-martins-oliveira/)  
