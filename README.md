@@ -48,5 +48,5 @@ Beyond my professional work, I’m passionate about **continuous learning and pe
 
 ## 📫 Contact Me
 
-- 📧 [Email](mailto:eduardomoliveiraa03@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/eduardo-oliveira-ps/)  
+- 📧 Email: eduardomoliveiraa03@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/eduardo-martins-oliveira/)  
