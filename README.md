@@ -14,7 +14,7 @@ I’m a **problem-solver** with a curious mind and a **team-focused mentality**,
 
 I’m passionate about **AI and technology**, exploring how they can **transform businesses, enhance society, and solve real-world challenges**.  
 
-Beyond work, I pursue **continuous learning and personal growth**, staying active through sports and keeping up with the latest in **business, science, and technology**.
+Beyond my professional work, I’m passionate about **continuous learning and personal growth**. I stay active through **sports and training**, and I keep myself informed on the latest developments in **business, science, and technology**.
 
 ---
 
