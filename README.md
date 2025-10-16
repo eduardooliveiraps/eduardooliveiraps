@@ -19,7 +19,7 @@ I’m a **problem-solver** with a **curious mind** and a **team-focused mentalit
 **Tools & Platforms:** PostgreSQL, MongoDB, AWS, Hugging Face, FastAPI, Next.js, NestJS, Strapi  
 **Professional Skills:** Leadership, Project Management, Team Coordination, Strategic Thinking, Client Communication  
 
-## Projects
+## M.Sc. in Artificial Intelligence Projects
 
 <p align="center">
 
