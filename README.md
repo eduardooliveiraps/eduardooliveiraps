@@ -19,6 +19,18 @@ I’m a **problem-solver** with a **curious mind** and a **team-focused mentalit
 **Tools & Platforms:** PostgreSQL, MongoDB, AWS, Hugging Face, FastAPI, Next.js, NestJS, Strapi  
 **Professional Skills:** Leadership, Project Management, Team Coordination, Strategic Thinking, Client Communication  
 
+## Education  
+
+**M.Sc. in Artificial Intelligence**  
+*Faculty of Engineering, University of Porto (FEUP)*  
+**Sep 2024 – Jul 2026**  
+**Relevant Coursework:** Machine Learning, Deep and Reinforcement Learning, Data Science, Natural Language Processing, Computer Vision, Robotics, Intelligent Systems  
+
+**B.Sc. in Informatics and Computing Engineering**  
+*Faculty of Engineering, University of Porto (FEUP)*  
+**Sep 2021 – Jul 2024**  
+**Relevant Coursework:** Programming, Algorithms and Data Structures, Software Engineering, Databases, Parallel and Distributed Computing, Computer Security, Human-Computer Interaction  
+
 ## M.Sc. in Artificial Intelligence Projects
 
 <p align="center">
