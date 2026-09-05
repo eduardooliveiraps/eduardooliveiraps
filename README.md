@@ -13,7 +13,7 @@ I'm a **problem-solver** with a **curious mind** and a **team-focused mentality*
 
 ## Highlights
 
-- 📄 Co-authored a paper on a memory architecture for LLM agents, accepted at **ISAMI'26** (17th International Symposium on Ambient Intelligence)
+- 📄 Authored a paper on a memory architecture for LLM agents, accepted at **ISAMI'26** (17th International Symposium on Ambient Intelligence)
 - 🏆 **Project of the Year** — jeniAL Awards 2025 (national, 26 Junior Enterprises) & **Most Impactful Project** — European Excellence Awards 2026 (16 countries, 325+ Junior Enterprises)
 - 🚀 Built and shipped platforms with direct real-world impact, adopted across five organizations:
   - Scheduling platform automating twice-daily shift assignments for 384 firefighters at the Porto fire department
