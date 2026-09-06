@@ -65,7 +65,7 @@ I'm a **problem-solver** with a **curious mind** and a **team-focused mentality*
 - Built and deployed a containerized audit platform (React, Strapi, Docker, AWS) with automated CI/CD via GitHub Actions, used by the national federation of 26 Junior Enterprises to track accreditation for 1,400+ members
 
 **Data Engineer Intern** — University of Madeira · *Sep 2024 – Nov 2024*
-- Built a modular, containerized ETL pipeline (Python, PostgreSQL, Docker) that ingests 2,500+ flight records a day from multiple sources, delivering clean datasets that supported a master's thesis on tourism analytics
+- Built a modular, containerized ETL pipeline (Python, Apache Airflow, PostgreSQL, Docker) that ingests 2,500+ flight records a day from multiple sources, delivering clean datasets that supported a master's thesis on tourism analytics
 
 ## M.Sc. in Artificial Intelligence Projects
 
