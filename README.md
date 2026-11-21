@@ -25,13 +25,6 @@ I'm a **problem-solver** with a **curious mind** and a **team-focused mentality*
   - Accreditation platform used by a national federation of 1,400+ student entrepreneurs
   - Operations platform managing stock, distribution, and sales across 4 sites for an international nonprofit
 
-## Featured Project
-
-**[fraud-mlops](https://github.com/eduardooliveiraps/fraud-mlops)** — A fraud scoring service with a reproducible **train → gate → deploy → monitor** loop on Kubernetes
-- Gated retraining: a CronJob validates data, trains a LightGBM model, registers it in MLflow, and promotes it only if it beats the current champion
-- Production-style serving with FastAPI, health probes, and autoscaling: **0 failed requests out of 31,938** during a model rollout and rollback under load
-- Drift monitoring with Prometheus and Grafana, CI/CD that spins up a throwaway cluster on every push, and infrastructure as code with Terraform and Helm
-
 ## Skills & Technologies
 
 **AI & LLMs:** LLM APIs & Agents, RAG, Vector Databases, Model Context Protocol (MCP), LangChain, LangGraph, Multimodal Embeddings, Explainable AI (XAI), Prompt Engineering  
