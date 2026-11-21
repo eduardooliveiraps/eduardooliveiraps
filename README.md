@@ -38,35 +38,47 @@ I'm a **problem-solver** with a **curious mind** and a **team-focused mentality*
 
 ## Experience
 
-**Forward Deployed AI Engineer** — [Augusta Labs](https://www.augustalabs.ai/) · *Nov 2026 – Present*
+**Forward Deployed AI Engineer** — [Augusta Labs](https://www.augustalabs.ai/) · Full-time  
+*Nov 2026 – Present* · Lisbon, Portugal · Hybrid
 - Work embedded with enterprise and private equity clients, owning AI projects end to end, from discovery and scoping through architecture, deployment and production support
 - Build production-grade AI systems, including LLM-based workflows, agentic systems, retrieval-augmented generation (RAG) and data pipelines
 - Work directly with client stakeholders as a technical point of contact, translating business problems into working AI solutions
 
-**IT Manager** — Junior Enterprises Portugal · *Jul 2025 – Aug 2026*
-- Built and deployed a containerized audit platform (React, Strapi, Docker, AWS) with automated CI/CD via GitHub Actions, used by the national federation of 26 Junior Enterprises to track accreditation for 1,400+ members
+**IT Manager** — Junior Enterprises Portugal  
+*Jul 2025 – Aug 2026* · Portugal
+- Led technology strategy and infrastructure for a national federation representing 26 Junior Enterprises, supporting a network of 1,400+ student entrepreneurs and €660K+ in annual revenue
+- Built and deployed a digital audit platform using React, Strapi, and AWS S3, centralizing accreditation compliance and automating audit workflows across the entire network
+- Implemented automated CI/CD pipelines with GitHub Actions, streamlining the deployment and maintenance of the federation's digital infrastructure
 
-**JuniFEUP** · Porto, Portugal
+**JuniFEUP**
 
 *Team Leader* · Apr 2025 – Aug 2026
-- Built an internal agentic AI assistant (Next.js, Node.js, PostgreSQL, pgvector) for 60+ members using LLM-based intent classification and MCP routing across Google Calendar, Notion, and internal knowledge bases, cutting information retrieval from 10+ minutes to under 5 seconds
-- Led a 2-developer team delivering a full-stack operations platform for an international nonprofit, driving 3 follow-on contracts
-- Built Python pipelines standardizing medical provider records across insurance networks for a national insurer, using embeddings and LLM-assisted matching to refresh a nationwide dataset monthly
+- Led a team of 2 developers to build an internal AI assistant used by 60+ members, reducing information retrieval time from 10 minutes to under 5 seconds through integrations with Notion and Google Calendar using Model Context Protocol (MCP)
+- Directed the development of a management platform for an international nonprofit, centralizing stock, distribution, and sales across 4 operational units and supporting expansion to new locations, resulting in 3 additional development contracts
+- Developed 3 data pipelines using Python and n8n for a major national insurer, integrating healthcare provider data across multiple insurance networks to support nationwide coverage analysis, identify service gaps, and enable monthly database updates through automated deduplication
 
 *Software Developer* · Oct 2024 – Aug 2026
-- Built a scheduling platform (React, FastAPI, PostgreSQL, Docker) automating twice-daily shift assignments for 384 firefighters, saving 1,500+ hours a year for the HR department
-- Awarded Project of the Year (jeniAL Awards 2025) and Most Impactful Project (European Excellence Awards 2026)
+- Built an intelligent workforce allocation platform for the Porto Firefighters Regiment, automating twice-daily assignments for 384 firefighters and saving over 1,500 hours of HR work annually
+- Awarded "Project of the Year" at jeniAL Awards 2025 (national, 26 Junior Enterprises) and "Most Impactful Project" at European Excellence Awards 2026 (16 countries, 325+ Junior Enterprises)
 
 *Project Manager* · Oct 2025 – Jul 2026
 - Led 8 stakeholder sessions to map end-to-end manufacturing workflows, identifying operational requirements for a centralized platform covering inventory, orders, production, and supplier performance
 - Developed an AI automation strategy to extract order data from PDFs and spreadsheets, delivering technical requirements, MVP mockups, and an implementation roadmap to reduce manual administrative work
 
-**AI Research Engineer** — INESC TEC · *Mar 2025 – Aug 2026*
-- Built a full-stack document intelligence platform (FastAPI, React, MongoDB, Docker) with multimodal embeddings and vector search, used by 68 R&D professionals to surface redundancies and information gaps across 800+ page collaborative workspaces
-- Designed a memory architecture for LLM agents that combines semantic search and graph traversal within a fixed token budget; authored a paper accepted at ISAMI'26 (17th International Symposium on Ambient Intelligence)
+*Product Developer* · Oct 2024 – Oct 2025
+- Designed and modeled 3D prototypes in SolidWorks as part of an 8-member multidisciplinary team, translating product concepts into detailed models to support prototype development and validation
 
-**Data Engineer Intern** — University of Madeira · *Sep 2024 – Nov 2024*
-- Built a modular, containerized ETL pipeline (Python, Apache Airflow, PostgreSQL, Docker) that ingests 2,500+ flight records a day from multiple sources, delivering clean datasets that supported a master's thesis on tourism analytics
+**AI Research Engineer** — INESC TEC · Full-time  
+*Mar 2025 – Aug 2026* · Porto, Portugal
+- Built a full-stack document intelligence platform using FastAPI, React, MongoDB, and Docker, enabling 68 R&D professionals to query and analyze 800+ pages of collaborative documents using Retrieval-Augmented Generation (RAG)
+- Developed automated analysis capabilities to identify content redundancies, inconsistencies, and information gaps, supporting the review and improvement of large collaborative documents
+- Designed a graph-augmented memory architecture for LLM agents to improve context selection within a fixed token budget
+- Authored a research paper on the memory architecture, which was accepted at ISAMI'26 (17th International Symposium on Ambient Intelligence)
+
+**Data Engineer** — Universidade da Madeira · Internship  
+*Sep 2024 – Nov 2024* · Portugal · Hybrid
+- Designed and implemented a modular ETL pipeline using Python, Apache Airflow, PostgreSQL, and Docker to automate the ingestion of 2,500+ daily flight records from multiple search engines
+- Produced clean, structured datasets for tourism analytics research, supporting a master's thesis on flight pricing trends and optimal booking periods for travel to Madeira Island
 
 ## Education
 
